@@ -22,9 +22,8 @@ Life is an adventure—
 I explore it one line of code at a time, balancing growth, creativity, and rest.
 
 🌐 Portfolio
+🔗 🌐 [Visit My Portfolio](https://monumental-marshmallow-6f31bf.netlify.app)
 
-👉 Check out my e-portfolio:
-🔗 monumental-marshmallow-6f31bf.netlify.app
 
 🤝 Let’s Connect
 

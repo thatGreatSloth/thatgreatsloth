@@ -1,15 +1,31 @@
-🌟 Welcome to My GitHub!
-Hi there! I'm a passionate software engineer to be who loves to dive into the world of code and explore the endless possibilities it offers. Here's a little bit about me:
+🌟 Welcome to My GitHub
 
-👩‍💻 What I Do:
-🛠️ Crafting projects with React
-💡 Continuously learning and pushing my boundaries to solve complex problems and build innovative solutions.
-🎮 My Hobbies:
-♟️ Enjoying strategic chess matches—nothing beats the thrill of a well-played game!
-📚 Getting lost in the pages of a captivating book.
-🎥 Unwinding with a great movie after a day of coding.
-🌟 Embracing life's adventures, one day at a time.
-🚀 My Philosophy:
-Life is an adventure, and I'm here to explore it one line of code at a time. I believe in balancing productivity with variety, ensuring each day is a mix of creativity, learning, and relaxation.
-🔗 Let's Connect!
-Feel free to check out my projects, and don’t hesitate to reach out if you share similar interests or have exciting ideas to collaborate on!
+Hi! I’m a software engineer in the making who loves building things and exploring what code can do.
+
+👩‍💻 What I Do
+
+🛠️ Build projects with React
+
+💡 Constantly learning and pushing myself with new challenges
+
+🎮 Outside of Code
+
+♟️ Chess (strategy is my comfort zone)
+
+📚 Reading
+
+🎥 Movies to unwind
+
+🚀 Philosophy
+
+Life is an adventure—
+I explore it one line of code at a time, balancing growth, creativity, and rest.
+
+🌐 Portfolio
+
+👉 Check out my e-portfolio:
+🔗 monumental-marshmallow-6f31bf.netlify.app
+
+🤝 Let’s Connect
+
+Feel free to explore my projects or reach out if you’d like to collaborate!

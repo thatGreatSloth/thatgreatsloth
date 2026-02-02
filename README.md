@@ -21,7 +21,6 @@ Hi! I’m a software engineer in the making who loves building things and explor
 Life is an adventure—
 I explore it one line of code at a time, balancing growth, creativity, and rest.
 
-🌐 Portfolio
 🔗 🌐 [Visit My Portfolio](https://monumental-marshmallow-6f31bf.netlify.app)
 
 
